@@ -21,3 +21,6 @@ So, this URI tells the publisher and subscriber to connect to the RabbitMQ serve
 ![alt text](image.png)
 When I run the publisher repeatedly (by running cargo run multiple times in the publisher directory), it keeps sending events to the queue. However, since the subscriber is artificially slowed down, it cannot process the events as quickly as they are being published.
 This is because the subscriber could not process the events as quickly as they were being published, leading to a buildup of events in the queue.
+
+![alt text](image-1.png)
+Running multiple subscriber consoles (three or more) allows for concurrent and parallel processing of messages from the queue, leading to faster queue clearance and a more responsive and scalable event-driven system.
