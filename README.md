@@ -15,3 +15,9 @@ The string "guest:guest@localhost:5672" is the connection URI (Uniform Resource 
 - "5672" is the port number on which RabbitMQ is listening for AMQP connections.
 
 So, this URI tells the publisher and subscriber to connect to the RabbitMQ server running locally on the same machine, using the default guest username and password, and communicating over the standard AMQP port (5672).
+
+# RabbitMQ's Graph
+
+![alt text](image.png)
+When I run the publisher repeatedly (by running cargo run multiple times in the publisher directory), it keeps sending events to the queue. However, since the subscriber is artificially slowed down, it cannot process the events as quickly as they are being published.
+This is because the subscriber could not process the events as quickly as they were being published, leading to a buildup of events in the queue.
