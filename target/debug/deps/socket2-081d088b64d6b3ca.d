@@ -1,0 +1,11 @@
+C:\Users\Daril\Desktop\tutor8\tutor8-subscriber\target\debug\deps\libsocket2-081d088b64d6b3ca.rmeta: C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\Daril\Desktop\tutor8\tutor8-subscriber\target\debug\deps\libsocket2-081d088b64d6b3ca.rlib: C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\Daril\Desktop\tutor8\tutor8-subscriber\target\debug\deps\socket2-081d088b64d6b3ca.d: C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs:
+C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs:
+C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs:
+C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs:
+C:\Users\Daril\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs:
